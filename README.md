@@ -29,8 +29,7 @@ Al hacerlo, se generará de nuevo el .tgz, pero esta vez se enviará directament
   ejemplo json:
 
 {
-  "name": "Paint
-code",
+  "name": "paintcode",
   "version": "2.1.0",
   "description": "libreria para colorear codigo html",
   "main": "Paint.js",
@@ -42,6 +41,7 @@ code",
     "url": "git+https://github.com/LionelStaricoff/paint-code.git#main"
   },
   "keywords": [
+   "paintcode",
     "libreria",
     "pintar",
     "bookshop",
@@ -49,7 +49,28 @@ code",
     "code",
     "paint-code",
     "paint-code-html",
-    "html"
+    "html",
+    "pintar-codigo-html",
+     "pintar-codigo",
+     "code-paint", 
+     "html-painter", 
+     "pintar-codigo", 
+     "color-html", 
+     "html-colorizer",
+      "code-coloring-tool", 
+      "pintura-html", 
+      "html-coding-art",
+       "code-artisan", 
+       "libro-html-paint", 
+       "colorizar-codigo",
+        "arte-html", 
+        "pintura-codigo", 
+        "code-art-painting", 
+        "html-paint-tool",
+         "color-codigo-html", 
+         "code-highlight", 
+         "pintura-visual-html",
+          "colorizador-de-codigo"
   ],
   "author": "staricofflionel@gmail.com (https://www.linkedin.com/in/lionel-staricoff/)",
   "license": "ISC",
@@ -58,6 +79,9 @@ code",
   },
   "homepage": " https://github.com/LionelStaricoff/paint-code/tree/main#readme"
 }
+
+
+
 
 </pre>
 
