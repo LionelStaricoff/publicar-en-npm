@@ -1,3 +1,4 @@
+
 <div align="center">
   
 # Publicar en npm:
@@ -18,7 +19,9 @@
 
 6_ Si todo funciona bien lo desinstalamos: <pre> <code> npm uninstall  </code> </pre> 
 
-7_ Si todo esta correcto Borra el archivo .tgz y publiccar.
+7_ Loguearse, colocando usuario y contraseña: <pre> <code> npm login  </code> </pre> 
+
+8_ Si todo esta correcto Borra el archivo .tgz y publiccar.
 Al hacerlo, se generará de nuevo el .tgz, pero esta vez se enviará directamente al registro npm. Al cabo de unos momentos, si no hay ningún problema, recibiremos un correo electrónico de confirmación diciéndonos que el paquete está publicado: <pre> <code>  npm publish  </code> </pre> 
 
 <pre>
