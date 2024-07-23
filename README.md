@@ -31,6 +31,7 @@ Al hacerlo, se generará de nuevo el .tgz, pero esta vez se enviará directament
 {
   "name": "paintcode",
   "version": "2.1.0",
+  "type": "module",
   "description": "libreria para colorear codigo html",
   "main": "Paint.js",
   "scripts": {
